@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-02-23T12:47:03.144</Modified>
+      <Modified>2022-02-23T13:09:51.718</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\RandomFact.exe">
       <PackagePath>entrypoint\RandomFact.exe</PackagePath>
-      <Modified>2022-02-23T12:47:02.689</Modified>
+      <Modified>2022-02-23T13:09:51.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bass4Nation\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,27 +86,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\RandomFact.xr.xml">
       <PackagePath>RandomFact.xr.xml</PackagePath>
-      <Modified>2022-02-23T12:44:56.180</Modified>
+      <Modified>2022-02-23T13:07:36.741</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-02-23T12:47:02.619</Modified>
+      <Modified>2022-02-23T13:07:36.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\Pages\MainPage.xbf">
       <PackagePath>Pages\MainPage.xbf</PackagePath>
-      <Modified>2022-02-23T12:47:02.619</Modified>
+      <Modified>2022-02-23T13:07:36.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\Pages\Note.xbf">
       <PackagePath>Pages\Note.xbf</PackagePath>
-      <Modified>2022-02-23T12:47:02.619</Modified>
+      <Modified>2022-02-23T13:07:36.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\Pages\Notes.xbf">
       <PackagePath>Pages\Notes.xbf</PackagePath>
-      <Modified>2022-02-23T12:47:02.620</Modified>
+      <Modified>2022-02-23T13:09:51.199</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\Pages\RandomFacts.xbf">
       <PackagePath>Pages\RandomFacts.xbf</PackagePath>
-      <Modified>2022-02-23T12:47:02.620</Modified>
+      <Modified>2022-02-23T13:09:51.199</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -118,7 +118,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\net 2022\net-2022\RandomFact\bin\x86\Debug\Core\RandomFact.exe">
       <PackagePath>RandomFact.exe</PackagePath>
-      <Modified>2022-02-23T12:47:03.140</Modified>
+      <Modified>2022-02-23T13:09:51.714</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -9,6 +9,8 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <TextBlock x:ConnectionId='2' x:Name="title" HorizontalAlignment="Left" Margin="662,146,0,0" Text="Notes" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48" FontWeight="Bold"/>
+        <Button x:ConnectionId='3' x:Name="Back" Content="Back to Main" VerticalAlignment="Top" Height="92" Width="245" FontSize="36" FontWeight="Bold"                   />
 
     </Grid>
 </Page>

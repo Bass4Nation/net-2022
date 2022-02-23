@@ -57,3 +57,4 @@ E:\Projects\net 2022\net-2022\RandomFact\obj\x86\Debug\Pages\Note.xbf
 E:\Projects\net 2022\net-2022\RandomFact\obj\x86\Debug\Pages\Notes.xbf
 E:\Projects\net 2022\net-2022\RandomFact\obj\x86\Debug\Pages\RandomFacts.xbf
 E:\Projects\net 2022\net-2022\RandomFact\obj\x86\Debug\Pages\MainPage.xbf
+E:\Projects\net 2022\net-2022\RandomFact\obj\x86\Debug\RandomFact.csproj.AssemblyReference.cache

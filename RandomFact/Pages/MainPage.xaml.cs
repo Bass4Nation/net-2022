@@ -34,12 +34,12 @@ namespace RandomFact
 
         private void Rfact_Click(object sender, RoutedEventArgs e)
         {
-            Console.WriteLine("Random Fact button");
+            this.Frame.Navigate(typeof(RandomFacts));
         }
 
         private void Notes_Click(object sender, RoutedEventArgs e)
         {
-
+            this.Frame.Navigate(typeof(Notes));
         }
     }
 }
